@@ -1,0 +1,821 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bachbill\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-18 13:23-0600\n"
+"PO-Revision-Date: 2012-03-18 13:23-0600\n"
+"Last-Translator: a <jsb@hssc.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: a-dime-every-time.php:50
+#: bachbillAdminControls.php:10
+msgid "Settings"
+msgstr "Opciones"
+
+#: a-dime-every-time.php:51
+msgid "Reporting"
+msgstr "Informes"
+
+#: a-dime-every-time.php:51
+msgid "reporting"
+msgstr "informes"
+
+#: a-dime-every-time.php:54
+#: bachbillAdminControls.php:353
+#: payments.php:17
+msgid "Payments"
+msgstr "Pagos"
+
+#: a-dime-every-time.php:108
+msgid "You are not logged in to see this content"
+msgstr "Para ver más debe estar suscrito al servicio"
+
+#: a-dime-every-time.php:108
+msgid "log in"
+msgstr "registrarse"
+
+#: a-dime-every-time.php:142
+#: a-dime-every-time.php:200
+#: media.php:39
+#: media.php:67
+msgid "There was an error while trying to authorize the user to use the content"
+msgstr "Ocurrió un error procesando la petición de autorización"
+
+#: a-dime-every-time.php:174
+msgid "This content costs"
+msgstr "Este item cuesta"
+
+#: a-dime-every-time.php:176
+msgid "credit"
+msgstr "crédito"
+
+#: a-dime-every-time.php:178
+msgid "You have"
+msgstr "Tiene usted"
+
+#: a-dime-every-time.php:180
+msgid "credits left in your subscription."
+msgstr "créditos disponibles en su suscripción."
+
+#: a-dime-every-time.php:182
+msgid "Please hit"
+msgstr "Por favor pulse"
+
+#: a-dime-every-time.php:184
+#: bachbillAdminControls.php:348
+msgid "Continue"
+msgstr "Continuar"
+
+#: a-dime-every-time.php:187
+msgid "to access the content and discount the credit from your balance."
+msgstr "para acceder al contenido completo y descontar el crédito de su balance."
+
+#: a-dime-every-time.php:216
+msgid "This items costs"
+msgstr "Este item cuesta"
+
+#: a-dime-every-time.php:216
+msgid "credits"
+msgstr "créditos"
+
+#: a-dime-every-time.php:217
+msgid "Please press"
+msgstr "Por favor pulse"
+
+#: a-dime-every-time.php:217
+#: a-dime-every-time.php:327
+#: a-dime-every-time.php:817
+msgid "here"
+msgstr "aquí"
+
+#: a-dime-every-time.php:217
+msgid "to access the full content"
+msgstr "para acceder al contenido completo"
+
+#: a-dime-every-time.php:276
+msgid "Manage my subscriptions"
+msgstr "Gestionar mis subscripciones"
+
+#: a-dime-every-time.php:277
+msgid "See my items"
+msgstr "Ver mis cosas"
+
+#: a-dime-every-time.php:294
+msgid "Title:"
+msgstr "Título:"
+
+#: a-dime-every-time.php:316
+#: a-dime-every-time.php:568
+msgid "ADimeEveryTime Charging Options"
+msgstr "Opciones de pagos de ADimeEveryTime"
+
+#: a-dime-every-time.php:327
+msgid "If you want to use the ADimeEveryTime plugin pricing options please click"
+msgstr "Si quiere usar las opciones de pagos del plugin ADimeEveryTime por favor pulse"
+
+#: a-dime-every-time.php:327
+#: a-dime-every-time.php:817
+msgid "set up the ADimeEveryTime plugin"
+msgstr "configurar el plugin ADimeEveryTime"
+
+#: a-dime-every-time.php:547
+msgid "Invalid price"
+msgstr "Precio inválido"
+
+#: a-dime-every-time.php:551
+msgid "Price should only contain 2 decimals"
+msgstr "El precio debería contener únicamente 2 decimales"
+
+#: a-dime-every-time.php:583
+msgid "Number of usages"
+msgstr "Número de créditos"
+
+#: a-dime-every-time.php:583
+msgid "If the article is used by a subscription that discounts usages (i.e. a 10 usages subscription), this is the number of usages it will discount to the subscription"
+msgstr "Si el artículo es utilizado en una subscripción que descuenta créditos (por ejemplo una subscripción de 10 créditos), este es el número de créditos que descontará de la subscripción"
+
+#: a-dime-every-time.php:588
+msgid "This content is chargeable"
+msgstr "El contenido es de pago"
+
+#: a-dime-every-time.php:588
+msgid "If the content belongs to a category that is chargeable, there is no need to set it as chargeable, unless you want to assign a price to it explicitely"
+msgstr "Si el contenido pertenece a una categoría de pago, no es necesario configurar el contenido como de pago, a menos que se le desee dar un precio explícito"
+
+#: a-dime-every-time.php:595
+msgid "Choose below"
+msgstr "Elegir debajo"
+
+#: a-dime-every-time.php:600
+#: a-dime-every-time.php:613
+msgid "See any post in this category"
+msgstr "Ver cualquier artículo de esta categoría"
+
+#: a-dime-every-time.php:601
+#: a-dime-every-time.php:610
+#: a-dime-every-time.php:619
+#: a-dime-every-time.php:629
+#: functions.php:134
+msgid "for"
+msgstr "por"
+
+#: a-dime-every-time.php:603
+#: a-dime-every-time.php:615
+#: a-dime-every-time.php:625
+msgid "month"
+msgstr "mes"
+
+#: a-dime-every-time.php:604
+#: a-dime-every-time.php:616
+#: a-dime-every-time.php:626
+msgid "day"
+msgstr "día"
+
+#: a-dime-every-time.php:605
+#: a-dime-every-time.php:617
+#: a-dime-every-time.php:627
+msgid "week"
+msgstr "semana"
+
+#: a-dime-every-time.php:606
+msgid "renewed automatically"
+msgstr "renovado automáticamente"
+
+#: a-dime-every-time.php:610
+#: a-dime-every-time.php:622
+msgid "See"
+msgstr "Ver"
+
+#: a-dime-every-time.php:610
+#: a-dime-every-time.php:622
+msgid "posts"
+msgstr "artículos"
+
+#: a-dime-every-time.php:613
+#: a-dime-every-time.php:622
+msgid "during"
+msgstr "durante"
+
+#: a-dime-every-time.php:635
+msgid "Delete this option"
+msgstr "Eliminar esta opción"
+
+#: a-dime-every-time.php:639
+msgid "Pricing options"
+msgstr "Opciones de pago"
+
+#: a-dime-every-time.php:645
+#: functions.php:216
+msgid "Price"
+msgstr "Precio"
+
+#: a-dime-every-time.php:717
+msgid "Add another option"
+msgstr "Añadir otra opción"
+
+#: a-dime-every-time.php:726
+msgid "Media link protection"
+msgstr "Protección de enlaces a archivos y medios"
+
+#: a-dime-every-time.php:727
+msgid "Protecting media links is a mechanism to prevent users from sharing links of images, music tracks, e-pub files, etc. which are suppossed to be chargeable. It's not recommended doing it for trivial pieces of contents like static icons, etc. since protected content serving is a bit slower than the open one."
+msgstr "Proteger enlaces a archivos y medios es un mecanismo para impedir que los usuarios compartan enlaces de imágenes, música, ficheros e-pub, etc. que deberían ser de pago. No está recomendado hacerlo para archivos no interesantes como iconos, imágenes estáticas auxiliares, etc. debido a que la protección afecta algo al rendimiento."
+
+#: a-dime-every-time.php:729
+msgid "Select the links to protect"
+msgstr "Seleccionar enlaces a proteger"
+
+#: a-dime-every-time.php:793
+msgid "No links available for this post"
+msgstr "No hay enlaces disponibles en esta página"
+
+#: a-dime-every-time.php:799
+msgid "Refresh links from content"
+msgstr "Refrescar los enlaces del contenido"
+
+#: a-dime-every-time.php:808
+msgid "Update Post"
+msgstr "Actualizar"
+
+#: bachbillAdminControls.php:11
+msgid "Welcome to the ADimeEveryTime plugin. It will allow you to monetize your Wordpress website very easily"
+msgstr "Bienvenid@ al plugin ADimeEveryTime. Este plugin permitirá monetizar su sitio Wordpress de manera my fácil"
+
+#: bachbillAdminControls.php:12
+msgid "To configure it you only need to follow three steps"
+msgstr "Para configurarlo solo necesitará seguir tres pasos"
+
+#: bachbillAdminControls.php:315
+msgid "Are you sure that you want to reset all the information and start configuring the plugin again?"
+msgstr "¿Está seguro de que quiere resetear toda la información y empezar a configurar el plugin de nuevo?"
+
+#: bachbillAdminControls.php:333
+#: bachbillAdminControls.php:720
+msgid "Account information"
+msgstr "Información de la cuenta"
+
+#: bachbillAdminControls.php:339
+msgid "You need a ADimeEveryTime account to configure the plugin and start making money"
+msgstr "Necesita una cuenta de ADimeEveryTime para empezar a ganar dinero"
+
+#: bachbillAdminControls.php:343
+msgid "Would you like to sign up for ADimeEveryTime?"
+msgstr "¿Quiere registrarse en ADimeEveryTime?"
+
+#: bachbillAdminControls.php:344
+msgid "Yes, I would like to sign up"
+msgstr "Sí, me gustaría registrarme"
+
+#: bachbillAdminControls.php:345
+msgid "No, I already have a ADimeEveryTime account"
+msgstr "No, ya dispongo de una cuenta en ADimeEveryTime"
+
+#: bachbillAdminControls.php:354
+#: bachbillAdminControls.php:726
+msgid "Social networks"
+msgstr "Redes sociales"
+
+#: bachbillAdminControls.php:366
+#: bachbillAdminControls.php:400
+msgid "Signup"
+msgstr "Registro"
+
+#: bachbillAdminControls.php:370
+msgid "User ID"
+msgstr "ID de Usuario"
+
+#: bachbillAdminControls.php:374
+msgid "User Name"
+msgstr "Nombre"
+
+#: bachbillAdminControls.php:379
+msgid "E-mail address"
+msgstr "Correo electrónico"
+
+#: bachbillAdminControls.php:383
+msgid "Retype E-mail address"
+msgstr "Confirmar correo electrónico"
+
+#: bachbillAdminControls.php:388
+msgid "Password"
+msgstr "Clave"
+
+#: bachbillAdminControls.php:392
+msgid "Retype Password"
+msgstr "Confirmar Clave"
+
+#: bachbillAdminControls.php:398
+msgid "Yes, I agree on the terms and conditions"
+msgstr "Sí, estoy de acuerdo con los términos y condiciones"
+
+#: bachbillAdminControls.php:401
+#: functions.php:441
+#: pages/message.php:13
+#: pages/purchase.php:178
+#: pages/purchase.php:269
+#: pages/purchase.php:517
+msgid "Go back"
+msgstr "Atrás"
+
+#: bachbillAdminControls.php:411
+msgid "Thanks for signing up"
+msgstr "Gracias por registrarse"
+
+#: bachbillAdminControls.php:427
+msgid "The confirmation code was resent to your email address"
+msgstr "El código de confirmación ha sido enviado a su dirección de correo electrónico"
+
+#: bachbillAdminControls.php:433
+msgid "You need to activate you account"
+msgstr "Necesita activar su cuenta"
+
+#: bachbillAdminControls.php:434
+msgid "You should have received a confirmation code by email. Please type it here"
+msgstr "Habrá recibido su código de confirmación por e-mail. Por favor escríbalo aquí"
+
+#: bachbillAdminControls.php:435
+msgid "Click to continue with the setup"
+msgstr "Pulsar para continuar con la configuración"
+
+#: bachbillAdminControls.php:436
+msgid "Please resend me the confirmation code"
+msgstr "Por favor reenvíeme el código de conformación"
+
+#: bachbillAdminControls.php:439
+msgid "Reset all the information"
+msgstr "Resetear toda la información"
+
+#: bachbillAdminControls.php:478
+msgid "No User ID present"
+msgstr "No se encuentra la ID de usuario"
+
+#: bachbillAdminControls.php:482
+msgid "No Name present"
+msgstr "No se encuentra el nombre"
+
+#: bachbillAdminControls.php:490
+msgid "Emails do not match"
+msgstr "Los correos electrónicos no coinciden"
+
+#: bachbillAdminControls.php:494
+msgid "Passwords do not match"
+msgstr "Las claves no coinciden"
+
+#: bachbillAdminControls.php:498
+msgid "You must agree on the terms and conditions"
+msgstr "Debe aceptar los términos y condiciones"
+
+#: bachbillAdminControls.php:694
+msgid ""
+"Changes will get lost. You can press 'Update Changes' and then go to manage your credit.\\n"
+"Are you sure you want to quit this page?"
+msgstr ""
+"Se perderán todos los cambios. Puede pulsar 'Actualizar Cambios' e ir a gestionar su crédito.\\n"
+"¿Está seguro de que quiere abandonar esta página?"
+
+#: bachbillAdminControls.php:710
+msgid "Configuration updated"
+msgstr "Configuración actualizada"
+
+#: bachbillAdminControls.php:723
+msgid "Payments..."
+msgstr "Pagos..."
+
+#: bachbillAdminControls.php:733
+#: bachbillAdminControls.php:734
+#: bachbillAdminControls.php:735
+#: bachbillAdminControls.php:736
+#: bachbillAdminControls.php:737
+msgid "Normally it's"
+msgstr "Normalmente es"
+
+#: bachbillAdminControls.php:733
+msgid "the partner id"
+msgstr "la id del partner"
+
+#: bachbillAdminControls.php:735
+msgid "the partner password"
+msgstr "la clave del partner"
+
+#: bachbillAdminControls.php:741
+#: bachbillAdminControls.php:835
+#: bachbillAdminControls.php:865
+msgid "Update configuration"
+msgstr "Actualizar la configuración"
+
+#: bachbillAdminControls.php:752
+msgid "If you want to test this first without involving real money, select \"sandbox\" and open a Paypal developer account on"
+msgstr "Si quiere hacer pruebas sin dinero real, seleccione \"sandbox\" y abra una cuenta de Paypal developer en"
+
+#: bachbillAdminControls.php:753
+msgid "If you already tested it and you are good to go live with your website, select \"live\", open a paypal account at"
+msgstr "Si ya ha probado el plugin y está listo para ir a producción, seleccione \"live\", abra una cuenta de Paypal en"
+
+#: bachbillAdminControls.php:753
+msgid "if you do not have it yet and provide us with your API credentials"
+msgstr "Si no la tiene aún y nos proporciona sus credenciales de API"
+
+#: bachbillAdminControls.php:757
+msgid "Paypal environment"
+msgstr "Entorno de Paypal"
+
+#: bachbillAdminControls.php:765
+msgid "Paypal live configuration"
+msgstr "Configuraciñon live de Paypal"
+
+#: bachbillAdminControls.php:769
+msgid "API Username for live"
+msgstr "Usuario de API para live"
+
+#: bachbillAdminControls.php:774
+msgid "API Password for live"
+msgstr "Clave de API para live"
+
+#: bachbillAdminControls.php:779
+msgid "API Signature for live"
+msgstr "Firma de API para live"
+
+#: bachbillAdminControls.php:788
+msgid "You need to have a PayPal account to monetize your contents. You can open an account at"
+msgstr "Necesita una cuenta de Paypal para monetizar sus contenidos. Puede abrir una en"
+
+#: bachbillAdminControls.php:789
+msgid "If you already have a PayPal account, then we need your API credentials. Basically, these are the steps you need to follow to get those credentials"
+msgstr "Si ya dispone de una cuenta de Paypal, necesitamos sus credenciales de API. Básicamente, estos son los pasos a seguir para obtener dichas credenciales"
+
+#: bachbillAdminControls.php:791
+msgid "Log in to PayPal, then click Profile under My Account"
+msgstr "Registrarse en paypal y pulsar en Perfil"
+
+#: bachbillAdminControls.php:792
+msgid "Click My selling tools"
+msgstr "Pulsar en Opciones de venta"
+
+#: bachbillAdminControls.php:793
+msgid "Click API Access"
+msgstr "Pulsar en Acceso a API"
+
+#: bachbillAdminControls.php:794
+msgid "Click Request API Credentials"
+msgstr "Pulsar en Solicitar credenciales de API"
+
+#: bachbillAdminControls.php:795
+msgid "Check Request API signature and click Agree and Submit"
+msgstr "Pulsar en Solicitar firma de API, pulsar Aceptar y Enviar"
+
+#: bachbillAdminControls.php:797
+msgid "For more info please check"
+msgstr "Para más información, colsulte"
+
+#: bachbillAdminControls.php:797
+msgid "this page"
+msgstr "esta página"
+
+#: bachbillAdminControls.php:804
+msgid "Currency"
+msgstr "Moneda"
+
+#: bachbillAdminControls.php:831
+msgid "Tax percentage"
+msgstr "Porcentaje de impuestos indirectos"
+
+#: bachbillAdminControls.php:843
+msgid "You can choose as many social networks as you want from below. This way, the user will be able to sign up to your site using that social network account"
+msgstr "Puede elegir tantas redes sociales como desee de la lista. De esta forma, el usuario podrá registrarse en su sitio utilizando esa red social"
+
+#: bachbillAdminControls.php:844
+msgid "You can also select none and manage your customers just us regular wordpress users"
+msgstr "También puede no seleccionar ninguna y utilizar la gestión de usuarios normal de wordpress"
+
+#: bachbillAdminControls.php:872
+msgid "Reset account information"
+msgstr "Resetear la información de cuenta"
+
+#: functions.php:94
+msgid "FREE"
+msgstr "GRATIS"
+
+#: functions.php:95
+msgid "Final price:"
+msgstr "Precio final:"
+
+#: functions.php:96
+msgid "discount"
+msgstr "de descuento"
+
+#: functions.php:100
+msgid "You need a promocode"
+msgstr "Neceista un código promocional"
+
+#: functions.php:102
+msgid "Buy with promotion"
+msgstr "Comprar con promoción"
+
+#: functions.php:124
+#: functions.php:126
+msgid "article"
+msgstr "crédito"
+
+#: functions.php:130
+msgid "No match..."
+msgstr "No hay coincidencia..."
+
+#: functions.php:132
+msgid "per"
+msgstr "al"
+
+#: functions.php:136
+msgid "recurring"
+msgstr "recurrente"
+
+#: functions.php:149
+msgid "Buy"
+msgstr "Comprar"
+
+#: functions.php:154
+msgid "yes"
+msgstr "sí"
+
+#: functions.php:159
+msgid "This option has a promotion"
+msgstr "Esta opción dispone de una promoción"
+
+#: functions.php:172
+msgid "To see more you need to subscribe to this content"
+msgstr "Para ver más debe estar suscrito"
+
+#: functions.php:216
+msgid "Description"
+msgstr "Descripción"
+
+#: functions.php:216
+#: pages/purchase.php:229
+msgid "Discount"
+msgstr "Descuento"
+
+#: functions.php:216
+msgid "Expiry"
+msgstr "Expiración"
+
+#: functions.php:216
+msgid "Status"
+msgstr "Estado"
+
+#: functions.php:216
+msgid "Date"
+msgstr "Fecha"
+
+#: functions.php:229
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: functions.php:232
+msgid "No active subscriptions"
+msgstr "No hay suscripciones activas"
+
+#: functions.php:235
+msgid "See also non active ones"
+msgstr "Ver también las inactivas"
+
+#: functions.php:236
+msgid "Taxes not included"
+msgstr "Impuestos indirectos no incluídos"
+
+#: functions.php:255
+msgid "No transactions"
+msgstr "No hay transacciones"
+
+#: functions.php:306
+msgid "There was an error processing the request"
+msgstr "Ocurrió un error procesando la petición"
+
+#: functions.php:432
+msgid "Security header is not valid. Please configure the ADimeEveryTime plugin"
+msgstr "La cabecera de seguridad no es válida. Por favor configure el plugin de ADimeEveryTime"
+
+#: payments.php:30
+msgid "Go to payments page"
+msgstr "Ir a la página de pagos"
+
+#: reporting.php:12
+msgid "Please select a from date"
+msgstr "Por favor seleccione una fecha inicial"
+
+#: reporting.php:16
+msgid "Please select a to date"
+msgstr "Por favor seleccione una fecha final"
+
+#: reporting.php:20
+msgid "Please select report type"
+msgstr "Por favor seleccione un tipo de informe"
+
+#: reporting.php:37
+msgid "Activity reports"
+msgstr "Informes de actividad"
+
+#: reporting.php:44
+msgid "Please select the type of report"
+msgstr "Por favor seleccione el tipo de informe"
+
+#: reporting.php:45
+msgid "Service Usage"
+msgstr "Uso de servicio"
+
+#: reporting.php:46
+msgid "Payments and Revenue per Bundle"
+msgstr "Pagos e ingresos por categoría"
+
+#: reporting.php:47
+msgid "From date"
+msgstr "Fecha inicial"
+
+#: reporting.php:47
+msgid "to date"
+msgstr "fecha final"
+
+#: reporting.php:50
+msgid "Get Report"
+msgstr "Obtener Informe"
+
+#: pages/login_driver.php:111
+msgid "User coming from"
+msgstr "Usuario que viene de"
+
+#: pages/login_driver.php:113
+msgid "User already exists.  Password inherited."
+msgstr "El usuario ya existe. La clave ha sido heredada"
+
+#: pages/login_driver.php:140
+msgid "There was an error during the login."
+msgstr "Ocurrió un error durante el registro"
+
+#: pages/login_driver.php:142
+msgid "Login was successful"
+msgstr "La sesión se inició correctamente"
+
+#: pages/purchase.php:67
+#: pages/purchase.php:93
+#: pages/purchase.php:104
+#: pages/purchase.php:129
+#: pages/purchase.php:138
+#: pages/purchase.php:144
+#: pages/purchase.php:155
+msgid "There was an error while trying to purchase the content"
+msgstr "Ocurrió un error durante la compra"
+
+#: pages/purchase.php:160
+msgid "The action was cancelled by the user"
+msgstr "La operación ha sido cancelada por el usuario"
+
+#: pages/purchase.php:164
+msgid "The action is not valid"
+msgstr "La acción no es válida"
+
+#: pages/purchase.php:217
+msgid "Payment details"
+msgstr "Detalles del pago"
+
+#: pages/purchase.php:235
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: pages/purchase.php:242
+msgid "Taxes"
+msgstr "Impuestos indirectos"
+
+#: pages/purchase.php:248
+msgid "Total"
+msgstr "Total"
+
+#: pages/purchase.php:261
+#: pages/purchase.php:279
+msgid "Option"
+msgstr "Opción"
+
+#: pages/purchase.php:261
+msgid "Pay with Paypal"
+msgstr "Pagar con Paypal"
+
+#: pages/purchase.php:265
+msgid "Click to pay"
+msgstr "Pulse para pagar"
+
+#: pages/purchase.php:279
+msgid "Pay with credit card"
+msgstr "Pagar con tarjeta de crédito"
+
+#: pages/purchase.php:280
+msgid "First Name"
+msgstr "Nombre"
+
+#: pages/purchase.php:281
+msgid "Last Name"
+msgstr "Apellido"
+
+#: pages/purchase.php:282
+msgid "Address"
+msgstr "Dirección"
+
+#: pages/purchase.php:283
+msgid "City"
+msgstr "Ciudad"
+
+#: pages/purchase.php:284
+msgid "State"
+msgstr "Estado"
+
+#: pages/purchase.php:285
+msgid "Country"
+msgstr "País"
+
+#: pages/purchase.php:288
+msgid "Choose a Country"
+msgstr "Elegir un País"
+
+#: pages/purchase.php:495
+msgid "Zip code"
+msgstr "Código postal"
+
+#: pages/purchase.php:496
+msgid "Credit card type"
+msgstr "Tipo de tarjeta de crédito"
+
+#: pages/purchase.php:499
+msgid "Visa"
+msgstr ""
+
+#: pages/purchase.php:500
+msgid "MasterCard"
+msgstr ""
+
+#: pages/purchase.php:501
+msgid "Discover"
+msgstr ""
+
+#: pages/purchase.php:502
+msgid "Amex"
+msgstr ""
+
+#: pages/purchase.php:503
+msgid "Maestro"
+msgstr ""
+
+#: pages/purchase.php:504
+msgid "Solo"
+msgstr ""
+
+#: pages/purchase.php:507
+msgid "Credit card number"
+msgstr "Número de tarjeta de crédito"
+
+#: pages/purchase.php:508
+msgid "Expiry date"
+msgstr "Fecha de expiración"
+
+#: pages/purchase.php:516
+msgid "Security code"
+msgstr "Código de seguridad"
+
+#: pages/purchase.php:517
+msgid "Confirm Payment"
+msgstr "Confirmar pago"
+
+#: pages/selfcare.php:24
+#: pages/selfcare.php:33
+#: pages/transactions.php:26
+msgid "There was an error while trying to list the active subscriptions"
+msgstr "Ocurrió un error listando las subscripciones"
+
+#: pages/selfcare.php:41
+msgid "Are you sure that you want to cancel this subscription?"
+msgstr "¿Está seguro de que quiere cancelar esta subscripción?"
+
+#: pages/selfcare.php:87
+#: pages/selfcare.php:98
+msgid "There was an error while trying to cancel the subscription"
+msgstr "Ocurrió un error cancelando la subscripción"
+
+#: pages/transactions.php:35
+msgid "There was an error while trying to list the transactions"
+msgstr "Ocurrió un error listando mis items"
+
+#~ msgid "Manage my activity"
+#~ msgstr "Ver mi actividad"
+
+#~ msgid "to access the content"
+#~ msgstr "para acceder al contenido completo"
+
+#~ msgid "Check our promotions"
+#~ msgstr "Comprueba nuestras promociones"
+
+#, fuzzy
+#~ msgid "Name"
+#~ msgstr "Apellido"
